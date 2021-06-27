@@ -9,3 +9,5 @@
 .history/
 **/bin/
 **/obj/
+**/dist
+**/.DS_Store
